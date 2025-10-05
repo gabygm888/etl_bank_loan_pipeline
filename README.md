@@ -1,4 +1,4 @@
-![](path)# Proyecto ETL y Modelo de Predicción de Préstamos Personales
+# Proyecto ETL y Modelo de Predicción de Préstamos Personales
 
 ## Descripción general
 
